@@ -1,9 +1,13 @@
 # alephone-doc
+
 Alephone (aka Marathon) Game Documentation
 
+# browse the documentation
 
-# index
+[index.html](http://tst2005.github.io/alephone-doc/index.html)
 
- * [Lua.html](docs/Lua.html)
- * [Lua_HUD.html](docs/Lua_HUD.html)
- * [MML.html](docs/MML.html)
+doc/
+ * [Lua.html](http://tst2005.github.io/alephone-doc/docs/Lua.html)
+ * [Lua_HUD.html](http://tst2005.github.io/alephone-doc/docs/Lua_HUD.html)
+ * [MML.html](http://tst2005.github.io/alephone-doc/docs/MML.html)
+
