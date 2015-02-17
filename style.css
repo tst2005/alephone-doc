@@ -1,0 +1,95 @@
+      body {
+	  font-family: Verdana, Helvetica, sans-serif;
+	  font-size: 9pt;
+	  width: 800px;
+      }
+      a:link {
+	  color: #006600;
+      }
+
+      a:visited {
+	  color: #669966;
+      }
+      
+      a:hover {
+	  color: #009900;
+      }
+
+      h1 {
+	  background-color: #EEEEEE;
+	  border: thin solid #999999;
+	  padding: 4px;
+      }
+      h2 {
+	  color: #006600;
+      }
+      dt {
+	  color: #006600;
+	  margin-top: 4px;
+	  margin-bottom: 4px;
+      }
+      
+      h3 {
+	  color: #003300;
+	  margin-bottom: 4px;
+	  padding-bottom: 1px;
+	  border-bottom: thin solid;
+      }
+
+      h4 {
+	  margin: 0px;
+	  color: #003300;
+      }
+
+      div.tables p {
+	  margin: 4px;
+      }
+
+      p.note {
+	  color: #666666;
+	  font-style: italic;
+      }
+
+      ul {
+	  list-style-type: none;
+      }
+
+      ul.args li {
+	  margin: 10 px;
+      }
+
+      span.access {
+	  color: #666666;
+	  font-style: italic;
+      }
+
+      span.version {
+	  color: #000066;
+	  font-style: normal;
+	  font-size: 8pt;
+	  color: #FFFFFF;
+	  background-color: #006600;
+	  padding-left: 1px;
+	  padding-right: 1px;
+      }
+      
+      span.pre {
+          display: block;
+          margin: 4px 0;
+          white-space: pre-wrap;
+      }
+
+      div.end-mnemonics {
+	  clear: both;
+      }
+
+      div.mnemonics-column {
+	  float: left;
+	  #width: 250px;
+	  width: 33%;
+      }
+
+      ul.mnemonics li {
+	  color: #006600;
+      }
+
